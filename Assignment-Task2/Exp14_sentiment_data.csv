@@ -1,0 +1,11 @@
+Post,Sentiment
+I love this product!,Positive
+This is the worst experience ever.,Negative
+"It's okay, nothing special.",Neutral
+Absolutely fantastic!,Positive
+"Not great, not terrible.",Neutral
+I hate it.,Negative
+Best purchase I've made!,Positive
+Could be better.,Neutral
+Worst thing I've ever bought.,Negative
+I'm satisfied with this.,Positive

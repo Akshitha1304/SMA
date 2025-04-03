@@ -1,0 +1,10 @@
+content_type,likes,shares,comments,followers
+image,150,30,20,1000
+video,200,50,40,5000
+text,50,10,5,2000
+image,300,70,90,10000
+video,500,150,120,15000
+text,100,20,10,5000
+image,250,80,60,8000
+video,400,100,90,12000
+text,75,15,10,4000
